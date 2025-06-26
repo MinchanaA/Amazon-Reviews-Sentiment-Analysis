@@ -1,4 +1,4 @@
-**Amazon Reviews Sentiment Analysis**
+![image](https://github.com/user-attachments/assets/eee0e7bb-9f6b-4522-90ba-aedff72edeca)![image](https://github.com/user-attachments/assets/eee0e7bb-9f6b-4522-90ba-aedff72edeca)**Amazon Reviews Sentiment Analysis**
 
 **Goal**
 Analyze the sentiments from the given dataset of Amazon
@@ -23,15 +23,23 @@ What I have done
 8.Getting accuracy score of Naive Bayes Model
 
 **Libraries used**
-ntlk
-sklearn
-textblob
-wordcloud
-plotly
-numpy
-pandas
-matplotlib
-Models Used
-Naive Bayes Model
-Visualization
-Categorical variable summary
+1.ntlk
+2.sklearn
+3.textblob
+4.wordcloud
+5.plotly
+6.numpy
+7.pandas
+8.matplotlib
+
+**Accuracy**
+
+**Sentiment	Overall**
+Negative	3.968051
+Positive	4.737439
+Neutral	4.687500
+
+**Conclusion**
+Successfully able to develop a Deep Learning Model that can analyze the sentiments from the given data of Amazon reviews
+
+
