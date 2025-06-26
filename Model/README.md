@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/eee0e7bb-9f6b-4522-90ba-aedff72edeca)![image](https://github.com/user-attachments/assets/eee0e7bb-9f6b-4522-90ba-aedff72edeca)**Amazon Reviews Sentiment Analysis**
+**Amazon Reviews Sentiment Analysis**
 
 **Goal**
 Analyze the sentiments from the given dataset of Amazon
@@ -38,6 +38,10 @@ What I have done
 Negative	3.968051
 Positive	4.737439
 Neutral	4.687500
+
+![image](https://github.com/user-attachments/assets/28361c0c-c73a-4947-8a27-f79c3190eaf8)
+![image](https://github.com/user-attachments/assets/28361c0c-c73a-4947-8a27-f79c3190eaf8)
+
 
 **Conclusion**
 Successfully able to develop a Deep Learning Model that can analyze the sentiments from the given data of Amazon reviews
